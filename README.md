@@ -1,4 +1,3 @@
-```markdown
 # Feliz Natal Animation
 
 Este é um projeto simples que cria uma página web com uma animação de flocos de neve e uma árvore de Natal estilizada para desejar "Feliz Natal!"
@@ -10,7 +9,7 @@ Este é um projeto simples que cria uma página web com uma animação de flocos
 ```bash
 git clone https://seu-repositorio/feliz-natal.git
 cd feliz-natal-animation
-```
+
 
 2. Abra o arquivo `index.html` em seu navegador.
 

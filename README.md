@@ -6,7 +6,7 @@ Este é um projeto simples que cria uma página web com uma animação de flocos
 
 1. Faça o download ou clone este repositório.
 
-```bash
+
 git clone https://seu-repositorio/feliz-natal.git
 cd feliz-natal-animation
 
